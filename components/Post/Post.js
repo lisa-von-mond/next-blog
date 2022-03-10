@@ -17,7 +17,7 @@ export function Post({ id, title, date }) {
 
 const Container = styled.article`
   padding: 1rem;
-  border: 2px dotted gray;
+  border: 2px dotted white;
   border-radius: 12px;
 `;
 
